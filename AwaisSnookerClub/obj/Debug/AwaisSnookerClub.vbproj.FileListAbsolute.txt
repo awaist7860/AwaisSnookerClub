@@ -1,0 +1,13 @@
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\bin\Debug\AwaisSnookerClub.exe.config
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\bin\Debug\AwaisSnookerClub.exe
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\bin\Debug\AwaisSnookerClub.pdb
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\bin\Debug\AwaisSnookerClub.xml
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.frmGame.resources
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.frmMain.resources
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.frmMembers.resources
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.Resources.resources
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.frmUtilities.resources
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.vbproj.GenerateResource.Cache
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.exe
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.xml
+C:\Users\awais\OneDrive\Documents\databases\AwaisSnookerClub\AwaisSnookerClub\AwaisSnookerClub\obj\Debug\AwaisSnookerClub.pdb
